@@ -12,7 +12,7 @@ Hands-on cybersecurity labs utilizing VMWare with Kali Linux, Ubuntu, Metasploit
 ## Lab 1: Nmap observation on Metasploitable
 - Observed the network through nmap
 - Identified Open Ports, running services, and operating system
-- Practiced interpretting scan results and documenting
+- Practiced interpreting scan results and documenting
 
 ## Lab 2: Utilizing vsftpd 2.3.4 Backdoor
 - Used Metasploit to exploit vsftpd 2.3.4 in Kali Linux
