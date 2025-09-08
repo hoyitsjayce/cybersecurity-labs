@@ -3,7 +3,7 @@
 Hands-on cybersecurity labs utilizing VMWare with Kali Linux, Ubuntu, Metasploitable, Wazuh, and Flare VM documenting offensive and defensive cybersecurity techniques
 
 ## Table Of Contents
-- [Lab 1: Nmap Observation on Metasploitable](#lab-1-nmap-observation-on-metasploitable)
+- [Lab 1: Nmap Observation on Metasploitable](lab1-nmap/README.md)
 - [Lab 2: Utilizing vsftpd 2.3.4 Backdoor](#lab-2-Utilizing-vsftpd-234-backdoor)
 - [Lab 3: Post-Exploitation](#lab-3-post-exploitation)
 - [Notes & Screenshots](#notes--screenshots)
