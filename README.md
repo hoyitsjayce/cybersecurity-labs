@@ -14,15 +14,6 @@ Hands-on cybersecurity labs utilizing VMWare with Kali Linux, Ubuntu, Metasploit
 - Identified Open Ports, running services, and operating system
 - Practiced interpreting scan results and documenting
 
-## Lab 2: Utilizing vsftpd 2.3.4 Backdoor
-- Used Metasploit to exploit vsftpd 2.3.4 in Kali Linux
-- Gained shell access
-- Documented the exploitation process
-
-## Lab 3: Post-Exploitation
-- Explored file system, user accounts, network services
-- Practiced post-exploitation commands to understand attacker workflow
-- Documented outputs
 
 ## Notes & Screenshots
 
